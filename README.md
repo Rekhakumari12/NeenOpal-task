@@ -34,6 +34,6 @@ An interactive graph visualization tool built with **React Flow** and **Redux To
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/graph-visualization-app.git
-cd graph-visualization-app
+git clone https://github.com/Rekhakumari12/NeenOpal-task.git
+cd NeenOpal-task.git
 ```
