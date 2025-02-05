@@ -8,7 +8,7 @@ An interactive graph visualization tool built with **React Flow** and **Redux To
 
 ### 🌐 Live Demo
 
-[View Deployed App](https://graph-visualization.vercel.app)
+[View Deployed App](https://neen-opal-task-plum.vercel.app/)
 
 ---
 
@@ -25,9 +25,24 @@ An interactive graph visualization tool built with **React Flow** and **Redux To
 - **React + TypeScript** for UI
 - **React Flow** for graph visualization
 - **Redux Toolkit** for state management
-- **Vercel/Netlify** for deployment
+- **Vercel** for deployment
 
 ---
+
+## ⚙️ Third-Party Libraries
+
+- **react-flow-renderer:** Graph visualization.
+- **redux-toolkit:** Simplified Redux state management.
+- **react-redux:** To connect React with Redux.
+- **TypeScript:** Static type-checking.
+
+---
+
+## 📋 Assumptions
+
+- The graph starts with 10 nodes, all draggable and connected sequentially.
+- Undo/Redo functionality tracks node positions, colors, and font-size changes.
+- Node styles (color/font) are preserved when toggling between properties.
 
 ## 🚀 Getting Started
 
